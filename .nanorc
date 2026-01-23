@@ -1,0 +1,12 @@
+## Enable syntax highlighting
+include "/opt/homebrew/share/nano/*.nanorc"
+
+## If Intel mac or alternate path, also try:
+## include "/usr/local/share/nano/*.nanorc"
+
+set linenumbers
+set constantshow
+set softwrap
+set tabsize 2
+set autoindent
+

@@ -17,5 +17,5 @@ export LESS="-R -F -X"
 export GREP_OPTIONS="--color=auto"
 
 
-export PATH="$JAVA_HOME/bin:/opt/homebrew/opt/openjdk@21/bin:$PATH"
+export PATH="/opt/homebrew/bin:$JAVA_HOME/bin:/opt/homebrew/opt/openjdk@21/bin:$PATH"
 export JAVA_HOME=$(/usr/libexec/java_home)

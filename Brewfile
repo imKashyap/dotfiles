@@ -6,3 +6,5 @@ brew "fzf"
 brew "jq"
 brew "htop"
 brew "wget"
+brew "nano"
+
