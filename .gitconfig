@@ -1,0 +1,26 @@
+[user]
+  name = Rahul Kashyap
+  email = rahulkashyap4041@gmail.com
+
+[core]
+  editor = nano
+  excludesfile = ~/.config/git/ignore
+
+[color]
+  ui = auto
+
+[init]
+  defaultBranch = main
+
+[pull]
+  rebase = false
+
+[push]
+  default = simple
+
+[alias]
+  st = status
+  co = checkout
+  br = branch
+  cm = commit -m
+  lg = log --oneline --graph --decorate --all
