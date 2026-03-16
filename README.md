@@ -22,6 +22,3 @@ So files tracked by git are actually stored where they naturally belong.
 ```bash
 git clone --bare git@github.com:imKashyap/dotfiles.git ~/.dotfiles
 ```
-
-
-
